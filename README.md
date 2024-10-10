@@ -77,7 +77,7 @@ https://www.credly.com/users/marcoarata
 
 <p align="center">
 
-- **Contact me**:
+- *You can find me on**
   
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoarata/)
     [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcoarata/)
