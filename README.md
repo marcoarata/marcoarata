@@ -60,7 +60,8 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **Programming Languages**
+- **Programming Languages**:
+  
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,7 +71,8 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **Front-End Development**
+- **Front-End Development**:
+  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -81,7 +83,8 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **CSS Frameworks and Libraries**
+- **CSS Frameworks and Libraries**:
+  
   ![Bulma CSS](https://img.shields.io/badge/Bulma_CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -91,14 +94,16 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **Back-End Development**
+- **Back-End Development**:
+  
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
-- **Tools and Software**
+- **Tools and Software**:
+  
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
@@ -109,7 +114,8 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **Operating Systems and Terminal**
+- **Operating Systems and Terminal**:
+  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
   ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -119,14 +125,16 @@ https://www.credly.com/users/marcoarata
 
 <br>
 
-- **Development Environments**
+- **Development Environments**:
+  
   ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 <br>
 
-- **Version Control**
+- **Version Control**:
+  
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
